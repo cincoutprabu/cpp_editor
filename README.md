@@ -6,5 +6,5 @@ This is an award-winning entry (first prize winner!) created for Software Develo
 
 # Credits
 
-[@cincoutprabu](https://github.com/cincoutprabu)
+[@cincoutprabu](https://github.com/cincoutprabu)  
 [@mohanganeesh](https://github.com/mohanganeesh)
