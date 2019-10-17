@@ -1,2 +1,5 @@
 # cpp_editor
-Text Editor utility created for MS DOS environment using Turbo C++
+
+Text Editor utility created for legacy MS DOS environment using Turbo C++ 3.0.
+
+This was created in two days and won first-prize during Software Development contest of IT Quest 2001, a national-level technical symposium conducted by Karunya Institute of Technology, Coimbatore, India. Source code is provided as is from my backup archives from the year 2001.
